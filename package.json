@@ -18,10 +18,17 @@
     "Lluis Agusti <hi@llu.lu>"
   ],
   "dependencies": {
+    "@ethsign/sp-sdk": "^0.7.5",
+    "@metamask/providers": "^17.2.0",
+    "axios": "^1.7.7",
+    "ethers": "^6.13.2",
+    "fs": "^0.0.1-security",
     "next": "^13.5.6",
     "next-auth": "^4.24.7",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "snarkjs": "^0.7.4",
+    "viem": "^2.21.10"
   },
   "devDependencies": {
     "@types/node": "^18.19.26",
